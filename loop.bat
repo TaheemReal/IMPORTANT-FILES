@@ -1,6 +1,6 @@
 @echo off
 COLOR 0a
-:Virus
+:a
 echo DONT CLOSE
-timeout /t 5
-goto Virus
+timeout /t 10
+goto a
